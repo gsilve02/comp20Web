@@ -109,6 +109,32 @@ h2 {
 	font-size: 24px;
 }
 
+h3 {
+	margin-top: -7px;
+	font-size: 16px;
+}
+
+li {
+	margin-top: -14px;
+	padding-left: 5px;
+}
+
+.extra-li {
+	margin-top: 2px;
+}
+
+.detail {
+	list-style-type: none;
+	text-indent: -45px;
+	margin-top: -15px;
+}
+
+.other-detail {
+	list-style-type: none;
+	text-indent: -45px;
+	margin-top: 0px;
+}
+
 #footer {
 	text-align: center;
 	color: #DADADA;
