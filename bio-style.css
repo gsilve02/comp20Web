@@ -28,3 +28,11 @@ h1{
 	font-weight: bold;
 	margin-top: 25px;
 }
+
+#bio-text {
+	text-align: center;
+	color: #FCFCFC;
+	font-family: Helvetica;
+	font-size: 17px;
+	margin-top: -5px;
+}
