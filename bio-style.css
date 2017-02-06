@@ -20,6 +20,10 @@
 	border-color: rgba(0, 0, 0, 0.04);
 }
 
+body {
+	height: 100vh;
+}
+
 h1{ 
 	text-align: center;
 	color: #FCFCFC;

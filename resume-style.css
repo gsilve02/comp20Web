@@ -12,6 +12,10 @@
 	background: linear-gradient(to bottom right, #66E5FF, #A775FF);
 }
 
+body {
+	height: 100vh;
+}
+
 .cirlce-pic {
 	width: 25%;
 	border-radius: 50%;
