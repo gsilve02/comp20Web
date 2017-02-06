@@ -1,3 +1,53 @@
+.page-links {
+	text-align: center;
+	margin: 5.5%;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+#home {
+	text-decoration: none;
+	background-color: #FCFCFC;
+	border: solid #FCFCFC;
+	border-radius: 3%;
+	padding: 5px 15px 5px;
+	color: rgb(119, 199, 255);
+}
+
+/* link manipulation techniques found on w3schools.com */
+#bio:link, #bio:visited {
+	text-decoration: none;
+	border-style: solid;
+	color: rgba(252, 252, 252, 0.6);
+	border-color: rgba(252, 252, 252, 0.6);
+	border-radius: 3%;
+	margin-left: 17px;
+	padding: 5px 27px 5px;
+}
+
+#bio:hover {
+	background-color: #FCFCFC;
+	border-color: #FCFCFC;
+	color: rgb(121, 196, 255);	
+}
+
+#resume:link, #resume:visited {
+	text-decoration: none;
+	border-style: solid;
+	color: rgba(252, 252, 252, 0.6);
+	border-color: rgba(252, 252, 252, 0.6);
+	border-radius: 3%;
+	margin-left: 17px;
+	padding: 5px 5px 5px;
+
+}
+
+#resume:hover {
+	background-color: #FCFCFC;
+	border-color: #FCFCFC;
+	color: rgb(125, 190, 255);	
+}
+
 /* gradient css3 effects found on w3schools.com */
 #gradient {
 	/* in case gradient doesn't work */
