@@ -91,3 +91,16 @@ h1{
 	font-size: 17px;
 	margin-top: -5px;
 }
+
+#footer {
+	text-align: center;
+	color: #DADADA;
+	font-family: Helvetica;
+	font-size: 12px;
+	margin-top: 75px;
+	padding-bottom: 10px;
+}
+
+a {
+	color: #CCCCCC;
+}

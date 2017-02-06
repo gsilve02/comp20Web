@@ -82,3 +82,17 @@ h1{
 	font-weight: bold;
 	margin-top: 3%;
 }
+
+#footer {
+	text-align: center;
+	color: #DADADA;
+	font-family: Helvetica;
+	font-size: 12px;
+	margin-top: 65px;
+	padding-bottom: 10px;
+}
+
+a {
+	color: #CCCCCC;
+}
+
