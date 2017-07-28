@@ -7,5 +7,5 @@ was to master using HTML and CSS, better understanding their nuances, before
 moving on to incorporate JavaScript and frameworks.
 
 This website has been updated three times now already. Please go to 
-[my current website](gsilve02.github.io) to see my most recent info. The repo
-is also public on GitHub!
+[my current website](https://gsilve02.github.io) to see my most recent info. 
+The repo is also public on GitHub!
